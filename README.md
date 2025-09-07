@@ -32,6 +32,4 @@ I am an efficient Scratch programmer. I have made many games, codes, videos, and
 	<p style="text-align: center;"
 	onclick="alert('EMAILING US IS USELESS');">Tech Support: thoneey.is@right server-is-down.com</p>
 </footer>
-</body>
-</html>
 
